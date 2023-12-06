@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/GUI/makeReservationPage.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/delete/deleteFlights.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/delete/deleteReservation.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/insert/insertBus.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/insert/insertCustomer.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/insert/insertFlights.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/insert/insertHotels.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/insert/insertReservation.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/select/selectBus.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/select/selectFlights.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/select/selectHotels.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/select/selectReservation.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/select/selectReservation_forGUI.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql/0.CreateTables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql/1.触发器.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
